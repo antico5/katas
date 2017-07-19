@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative 'prime_numbers'
+require_relative '../prime_numbers'
 
 describe PrimeNumbers do
   describe 'factors' do
